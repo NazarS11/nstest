@@ -13,7 +13,8 @@ counts:
 created_at:
   from: 2024-04-03T00:00:00Z
   to: 2024-04-10T00:00:00Z
-senders:
+senders: []
+recipients:
 - test0@test.com
 - test1@test.com
 - test2@test.com
@@ -216,7 +217,6 @@ senders:
 - test199@test.com
 - test200@test.com
 - test201@test.com
-- test202@test.com 
-recipients: []
+- test202@test.com
 subjects: []
 esps: []

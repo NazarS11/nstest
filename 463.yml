@@ -1,18 +1,18 @@
-domain_id: 411
+domain_id: 596
 campaign_id: null
 counts:
   soft_bounced: 0
   hard_bounced: 0
   soft_rejected: 0
   hard_rejected: 0
-  delivered: 75
+  delivered: 177
   opened: 25
   clicked: 0
   unsubscribed: 0
   spam: 0
 created_at:
-  from: 2024-02-20T00:00:00Z
-  to: 2024-02-27T00:00:00Z
+  from: 2024-04-03T00:00:00Z
+  to: 2024-04-10T00:00:00Z
 senders:
 - test0@test.com
 - test1@test.com

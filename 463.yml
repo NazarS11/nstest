@@ -220,4 +220,5 @@ recipients:
 - test202@test.com
 subjects: []
 esps: []
-categories: []
+categories:
+- ""
